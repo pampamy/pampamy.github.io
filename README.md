@@ -1,9 +1,9 @@
 pampamy.github.io
 
-OPM ARTISTS 
+# OPM ARTISTS 
 ---
 
-- **Arthur Nery**
+## **Arthur Nery**
 
 ![alt text](https://i.pinimg.com/564x/f0/d5/d4/f0d5d4f7181d6fd4e7c1cc34e76bff54.jpg)      
 
@@ -13,7 +13,7 @@ Arthur Nery is a famous and known Filipino singer and songwriter.He signed a rec
 
 ---
 
-- **Up Dharma Down**
+## **Up Dharma Down**
   
 ![alt text](https://i.pinimg.com/564x/a9/7e/87/a97e87a601de8264e5f5f5ec5583ec3b.jpg)
 
@@ -35,7 +35,7 @@ UDD or also known as Up Dharma Down is a band that was formed in the year 2004. 
 
 ---
 
-- **IV of Spades**
+## **IV of Spades**
 
 ![alt text](https://i.pinimg.com/564x/57/be/3f/57be3f0ff5a5aaae3a497e526df5e792.jpg)
 
@@ -51,5 +51,9 @@ On May 4, 2018, Unique Salonga left IV of Spades to pursue a solo career. After 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4u8RkgV6P4TLi89SmlUtv8?utm_source=generator" width="70%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ---
+## *References*
 
-Those are some of the Famous artists and bands that are known in the country, Philippines. They are truely recommended and may their songs inspire and amaze you. 
+- [UDD band](https://en.wikipedia.org/wiki/UDD_(band)#Awards_and_nominations)
+- [Arthur Nery](https://en.wikipedia.org/wiki/Arthur_Nery)
+- [IV of Spades](https://en.wikipedia.org/wiki/IV_of_Spades)
+- [IV of Spades News](https://www.philstar.com/entertainment/2020/08/22/2037104/iv-spades-indefinite-hiatus)
